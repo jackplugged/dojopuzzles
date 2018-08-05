@@ -1,3 +1,4 @@
+
 const rest = (a, b) => (a % b);
 
 const isLeapYear = year => {
